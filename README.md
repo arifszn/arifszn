@@ -16,23 +16,16 @@ Hi, I'm Ariful Alam, a Full Stack Developer from Bangladesh.
 
 ## My Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
-<br/>
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
-<br/>
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
-<br/>
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
-<br/>
+
+![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=Vue.js)
-<br/>
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
-<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
-<br/>
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
-<br/>
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=flat-square&logo=css3)
-<br/>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
-<br/>
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
