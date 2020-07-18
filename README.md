@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-Hi, I'm Ariful Alam, a Full Stack Developer from Bangladesh.
+Hi, I'm Ariful Alam, a Full Stack Engineer from Bangladesh.
 
 ## My Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
