@@ -1,4 +1,4 @@
-### [Ariful Alam](https://arifszn.github.io/) [![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
+### [Ariful Alam](https://arifszn.github.io/)
 
 
 <a href="https://www.linkedin.com/in/ariful-alam">
@@ -12,6 +12,8 @@
 </a>
 <br/>
 <br/>
+
+[![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
 
 Hi, I'm Ariful Alam, a Full Stack Developer from Bangladesh.
 
