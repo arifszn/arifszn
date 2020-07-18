@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-[![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
+> [![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
 
 Hi, I'm Ariful Alam, a Full Stack Developer from Bangladesh.
 
