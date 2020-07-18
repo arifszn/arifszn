@@ -1,5 +1,6 @@
 ### [Ariful Alam](https://arifszn.github.io/)
 
+
 <a href="https://www.linkedin.com/in/ariful-alam">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,6 +15,9 @@
 
 > [![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
 
+![GIF](https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif)
+<br/>
+<br/>
 
 Hi, I'm Ariful Alam, a Full Stack Developer from Bangladesh.
 
