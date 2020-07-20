@@ -13,7 +13,6 @@
 <br/>
 <br/>
 
-> [![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
 
 ![GIF](https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif)
 <br/>
