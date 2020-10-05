@@ -1,18 +1,3 @@
-### [Ariful Alam](https://arifszn.github.io/)
-
-
-<a href="https://www.linkedin.com/in/ariful-alam">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:arifulalamszn@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/swozon">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
-
 
 ![GIF](https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif)
 <br/>
@@ -35,3 +20,17 @@ Hi, I'm Ariful Alam, a Full Stack Engineer from Bangladesh.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
+
+## Portfolio
+[https://arifszn.github.io](https://arifszn.github.io)
+
+## Reach me
+<a href="https://www.linkedin.com/in/ariful-alam">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:arifulalamszn@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.facebook.com/swozon">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
