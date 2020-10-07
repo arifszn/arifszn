@@ -1,5 +1,7 @@
+<p align="center">
+    <a href="https://arifszn.github.io" target="_blank"><img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/test.gif" alt="Ariful Alam" title="Ariful Alam"></a>
+</p>
 
-![GIF](https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif)
 <br/>
 <br/>
 
