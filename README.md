@@ -5,7 +5,8 @@
 <br/>
 <br/>
 
-Hi, I'm Ariful Alam, a Full Stack Engineer from Bangladesh.
+<p>Hi, my name is Ariful Alam and I am a Full Stack Engineer from Bangladesh.</p>
+<p>I am a BSc graduate and currently working as a Jr. Full Stack Engineer in a reputed company in Bangladesh. I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
 
 ## My Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
