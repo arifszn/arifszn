@@ -37,5 +37,8 @@ Hi, I'm Ariful Alam, a Full Stack Engineer from Bangladesh.
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-***
+<br/>
+
+##
+
 [![HitCount](http://hits.dwyl.com/arifszn/arifszn.svg)](http://hits.dwyl.com/arifszn/arifszn)
