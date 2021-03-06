@@ -18,6 +18,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript&logoColor=e1cc1b&labelColor=%232c3e50&color=%232c3e50)
 
+![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=flat-square&logo=ant-design)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=flat-square&logo=css3)
 
