@@ -1,5 +1,9 @@
 <p align="center">
-    <a href="https://arifszn.github.io" target="_blank"><img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" alt="Ariful Alam" title="Ariful Alam"></a>
+  <a href="https://arifszn.github.io" alt="Ariful Alam" title="Ariful Alam">
+    <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" width="100%"/>
+  </a>
+  <br/>
+  <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="100%"/></a>
 </p>
 
 <br/>
