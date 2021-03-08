@@ -7,7 +7,6 @@
 </p>
 
 <br/>
-<br/>
 
 <p>Hi, my name is MD. Ariful Alam and I am a Full Stack Engineer from Bangladesh.</p>
 <p>I am a BSc graduate and currently working as a Jr. Full Stack Engineer in a reputed company in Bangladesh. I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
