@@ -6,8 +6,7 @@
 
 <br/>
 
-<p>Hi, my name is MD. Ariful Alam and I am a Full Stack Engineer from Bangladesh.</p>
-<p>I am a BSc graduate and currently working as a Jr. Full Stack Engineer in a reputed company in Bangladesh. I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
+<p>I am a BSc graduated Full Stack Engineer from Bangladesh and working in the industry for more than 2 years. I love to work and have proficiency in PHP and JavaScript but open to explore other technologies also. In the industry, I have worked with several Laravel and lumen projects where the frontends are powered by React. Additionally, I like to contribute to the open source community and have three published libraries in npm and composer. As a tech enthusiast, I have always wanted to become a Software Engineer to learn and contribute to technology. And I have always believed that I need to do what I love. I love solving problems, making something great, making something meaningful.</p>
 
 ## My Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
