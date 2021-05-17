@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 
 ## Portfolio
-[www.arifszn.com](www.arifszn.com)
+[https://www.arifszn.com](www.arifszn.com)
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/ariful-alam">
