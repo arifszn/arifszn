@@ -2,7 +2,6 @@
   <a href="https://arifszn.github.io" alt="Ariful Alam" title="Ariful Alam">
     <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" width="100%"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arifszn&label=PROFILE+VIEWS&color=lightgrey&style=flat-square"/>
 </p>
 
 <br/>
