@@ -9,21 +9,19 @@
 <p>I am a BSc graduated Full Stack Engineer from Bangladesh and working in the industry for around 2.5 years. I love to work and have proficiency in PHP and JavaScript but open to explore other technologies also. In the industry, I have worked with several Laravel and lumen projects where the frontends are powered by React. Additionally, I like to contribute to the open source community and have three published libraries in npm and composer. As a tech enthusiast, I have always wanted to become a Software Engineer to learn and contribute to technology. And I have always believed that I need to do what I love. I love solving problems, making something great, making something meaningful.</p>
 
 ## My Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
-![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node-dot-js)
 
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=Vue.js)
-![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript&logoColor=e1cc1b&labelColor=%232c3e50&color=%232c3e50)
-
-![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=flat-square&logo=ant-design)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
-![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=flat-square&logo=css3)
-
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
-![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=e1cc1b&labelColor=%232c3e50&color=%232c3e50)
+![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue-dot-js)
+![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=node-dot-js)
+![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
+![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
+![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
+![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
 ## Portfolio
 [www.arifszn.com](https://www.arifszn.com)
