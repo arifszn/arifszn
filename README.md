@@ -11,7 +11,7 @@
 ## My Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
-![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
+![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node-dot-js)
 
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=Vue.js)
