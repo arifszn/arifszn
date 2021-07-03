@@ -21,6 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 ![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)
+![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
 ## Portfolio
