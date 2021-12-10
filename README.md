@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>I am a BSc graduated Software Engineer from Bangladesh and working in the industry for around 3 years. I love to work and have proficiency in PHP and JavaScript but am open to exploring other technologies also. In the industry, I have worked with several Laravel and lumen projects where the frontends are powered by React. Additionally, I like to contribute to the open source community and have 5 published libraries in npm and composer. As a tech enthusiast, I have always wanted to become a Software Engineer to learn and contribute to technology. And I have always believed that I need to do what I love. I love solving problems, making something great, making something meaningful.</p>
+<p>I am a Software Engineer from Bangladesh and currently working as a Backend Engineer II at Monstarlab Bangladesh. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
 
 ## My Tech Stack
 
