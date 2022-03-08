@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://arifszn.github.io" alt="Ariful Alam" title="Ariful Alam">
-    <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" width="100%"/>
+    <img src="./assets/preview.gif" width="100%"/>
   </a>
 </p>
 
@@ -30,16 +30,16 @@
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/ariful-alam">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/arif_swozon">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/swozon">
-  <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
 <a href="mailto:arifulalamszn@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/gmail.svg" />
+  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
 
 <br/>
@@ -48,6 +48,6 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/arifszn" target="_blank">
-    <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/bmc-button.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+    <img src="./assets/bmc-button.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </p>
