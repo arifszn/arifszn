@@ -38,9 +38,13 @@
 <a href="https://www.facebook.com/swozon">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+<br/>
+<br/>
 <br/>
 
-## Support
-<a href="https://www.buymeacoffee.com/arifszn" target="_blank">
-  <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/bmc-button.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/arifszn" target="_blank">
+    <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/bmc-button.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
