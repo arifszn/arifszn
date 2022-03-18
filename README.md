@@ -26,9 +26,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
 ## Portfolio
+
 [www.arifszn.com](https://www.arifszn.com)
 
 ## Reach Me
+
 <a href="https://www.linkedin.com/in/ariful-alam">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
@@ -45,6 +47,10 @@
 <br/>
 <br/>
 <br/>
+
+<p align="center">
+<a href="http://www.github.com/arifszn"><img src="https://github-readme-stats.vercel.app/api?username=arifszn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
+ </p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/arifszn" target="_blank">
