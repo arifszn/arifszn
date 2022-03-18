@@ -1,12 +1,6 @@
-<p align="center">
-  <a href="https://arifszn.github.io" alt="Ariful Alam" title="Ariful Alam">
-    <img src="./assets/preview.gif" width="100%"/>
-  </a>
-</p>
+Hey 👋
 
-<br/>
-
-<p>I am a Software Engineer from Bangladesh and currently working as a Backend Engineer II at Monstarlab Bangladesh. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
+I am Ariful Alam. Software Engineer from Bangladesh and currently working as a Backend Engineer II at Monstarlab Bangladesh. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.
 
 ## My Tech Stack
 
@@ -31,11 +25,11 @@
 
 ## Reach Me
 
-<a href="https://www.linkedin.com/in/ariful-alam">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
 <a href="https://twitter.com/arif_szn">
   <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ariful-alam">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/swozon">
   <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
