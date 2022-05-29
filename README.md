@@ -48,6 +48,11 @@ I am Ariful Alam. Software Engineer from Bangladesh and currently working as a B
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/arifszn" target="_blank">
-    <img src="./assets/bmc-button.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+    <img
+      src="./assets/bmc-button.png"
+      alt="Buy Me A Coffee"
+      height="60" 
+      width="217"
+    >
   </a>
 </p>
