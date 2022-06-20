@@ -51,7 +51,6 @@ I am Ariful Alam. Software Engineer from Bangladesh and currently working as a B
     <img
       src="./assets/bmc-button.png"
       alt="Buy Me A Coffee"
-      height="60" 
       width="217"
     >
   </a>
