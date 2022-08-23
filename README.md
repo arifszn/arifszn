@@ -12,7 +12,7 @@ Hi there 👋!
 - Writing `PHP`, `Laravel`, `JavaScript`, `React,js`, `Node.js`, `MySQL`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)** and **[Twitter](https://twitter.com/arif_szn)**.
-- Building **[GitProfile](https://github.com/arifszn/gitprofile)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)** & **[React Offline Indicator](https://github.com/arifszn/react-offline-indicator)**.
+- Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)** & **[React Offline Indicator](https://github.com/arifszn/react-offline-indicator)**.
 
 #### What are my skill sets?
 
