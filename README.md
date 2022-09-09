@@ -4,7 +4,7 @@ Hi there 👋!
 
 - A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
 - Working as **Backend Engineer II** at **[Monstarlab Bangladesh](https://monstar-lab.com/bd/)**.
-- Open Source Enthusiast.
+- Open Source enthusiast.
 - See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
 
 #### What I'm doing?
