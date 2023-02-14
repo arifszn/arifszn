@@ -12,7 +12,7 @@ Hi there 👋!
 - Writing `PHP`, `Laravel`, `JavaScript`, `React,js`, `Node.js`, `Nest.js`, `MySQL`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)** and **[Twitter](https://twitter.com/arif_szn)**.
-- Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)** & **[Awesome Shortcuts](https://github.com/arifszn/awesome-shortcuts)**.
+- Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)** & **[OneClick](https://github.com/arifszn/oneclick)**.
 
 #### What are my skill sets?
 
