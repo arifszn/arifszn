@@ -9,7 +9,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Writing `PHP`, `Laravel`, `JavaScript`, `React,js`, `Node.js`, `Nest.js`, `MySQL`.
+- Writing `JavaScript`, `TypeScript`, `Node.js`, `Nest.js`, `PHP`, `Laravel`, `React,js`, `MySQL`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)** and **[Twitter](https://twitter.com/arif_szn)**.
 - Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[Reforge](https://github.com/arifszn/reforge)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)**.
@@ -18,15 +18,15 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Language/Platform:** `PHP` • `JavaScript` • `Node.js`
-  - **Framework:** `Laravel` • `Lumen` • `Nest.js` • `Express.js`
+  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js` • `PHP`
+  - **Framework:** `Nest.js` • `Express.js` • `Laravel` • `Lumen`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **System Architecture:** `Monolithic` • `Modular`
   - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend:**
 
-  - **Language:** `JavaScript`
+  - **Language:** `JavaScript` • `TypeScript`
   - **Framework/Library:** `React.js` • `Docusaurus` • `Next.js` • `Gatsby`
   - **UI Toolkit:** `Ant Design` • `MUI`
   - **Utils:** `Tailwind` • `Modular CSS`
