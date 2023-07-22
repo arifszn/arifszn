@@ -3,28 +3,29 @@ Hi there 👋!
 #### Who I am?
 
 - A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
-- Working as **Backend Engineer II** at **[Monstarlab Bangladesh](https://monstar-lab.com/bd/)**.
-- Open Source enthusiast.
+- Among the top 30 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 - See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
+- Open to hire.
 
 #### What I'm doing?
 
-- Writing `JavaScript`, `TypeScript`, `Node.js`, `Nest.js`, `PHP`, `Laravel`, `React,js`, `MySQL`.
+- Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`, `PHP`, `Laravel`, `MySQL`.
 - Contributing to Open Source.
-- Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)** and **[Twitter](https://twitter.com/arif_szn)**.
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**, **[Twitter](https://twitter.com/arif_szn)** and **[Facebook](https://www.facebook.com/swozon)**.
 - Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[Reforge](https://github.com/arifszn/reforge)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)**.
+- Making **[AI Arts](https://www.flickr.com/photos/191005122@N07/albums/with/72177720309830012)**.
 
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
 
-  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js` • `PHP`
+  - **Language/Platform:** `Node.js` • `JavaScript` • `TypeScript` • `PHP`
   - **Framework:** `Nest.js` • `Express.js` • `Laravel` • `Lumen`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **System Architecture:** `Monolithic` • `Modular`
   - **Protocol:** `REST` • `Web Socket`
 
-- 🖥 **Frontend:**
+- 🖥 **Frontend: (_I do frontend for fun_)**
 
   - **Language:** `JavaScript` • `TypeScript`
   - **Framework/Library:** `React.js` • `Docusaurus` • `Next.js` • `Gatsby`
@@ -66,4 +67,3 @@ Hi there 👋!
 <a href="http://www.github.com/arifszn"><img src="https://github-readme-stats.vercel.app/api?username=arifszn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
 <a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </p>
- 
