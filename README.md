@@ -19,15 +19,15 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Language/Platform:** `Node.js` • `JavaScript` • `TypeScript` • `PHP`
+  - **Programming:** `Node.js` • `JavaScript` • `TypeScript` • `PHP`
   - **Framework:** `Nest.js` • `Express.js` • `Laravel` • `Lumen`
   - **Databases:** `MySQL` • `PostgreSQL`
-  - **System Architecture:** `Monolithic` • `Modular`
+  - **System Architecture:** `Monolithic` • `Modular` • `Microservices`
   - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend: (_I do frontend for fun_)**
 
-  - **Language:** `JavaScript` • `TypeScript`
+  - **Programming:** `JavaScript` • `TypeScript`
   - **Framework/Library:** `React.js` • `Docusaurus` • `Next.js` • `Gatsby`
   - **UI Toolkit:** `Ant Design` • `MUI`
   - **Utils:** `Tailwind` • `Modular CSS`
