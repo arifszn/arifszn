@@ -28,7 +28,7 @@ Hi there 👋!
 - 🖥 **Frontend: (_I do frontend for fun_)**
 
   - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Docusaurus` • `Next.js` • `Gatsby`
+  - **Framework/Library:** `React.js` • `Docusaurus` • `Gatsby`
   - **UI Toolkit:** `Ant Design` • `MUI`
   - **Utils:** `Tailwind` • `Modular CSS`
 
