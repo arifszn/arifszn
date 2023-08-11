@@ -25,7 +25,7 @@ Hi there 👋!
   - **System Architecture:** `Monolithic` • `Modular` • `Microservices`
   - **Protocol:** `REST` • `Web Socket`
 
-- 🖥 **Frontend: (_I do frontend for fun_)**
+- 🖥 **Frontend (_I do frontend for fun_):**
 
   - **Programming:** `JavaScript` • `TypeScript`
   - **Framework/Library:** `React.js` • `Docusaurus` • `Gatsby`
