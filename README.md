@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Full Stack Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
+- A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
 - Among the top 30 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 - See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
 
