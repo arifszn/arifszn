@@ -8,7 +8,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`, `MySQL`.
+- Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**, **[Twitter](https://twitter.com/arif_szn)** and **[Facebook](https://www.facebook.com/swozon)**.
 - Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[Vail](https://github.com/arifszn/vail)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)**.
@@ -18,8 +18,8 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `PHP` • `Node.js` • `JavaScript` • `TypeScript`
-  - **Framework:** `Laravel` • `Nest.js` • `Express.js` • `Lumen`
+  - **Programming:** `Node.js` • `JavaScript` • `TypeScript` • `PHP`
+  - **Framework:** `Nest.js` • `Express.js` • `Lumen` • `Laravel`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **System Architecture:** `Monolithic` • `Modular` • `Microservices`
   - **Protocol:** `REST` • `Web Socket`
