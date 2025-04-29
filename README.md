@@ -3,7 +3,7 @@ Hi there 👋!
 #### Who I am?
 
 - A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** with 6+ years of experience.
-- Among the top 100 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
+- Among the top 200 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 - See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
 
 #### What I'm doing?
