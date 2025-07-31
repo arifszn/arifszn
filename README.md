@@ -11,7 +11,6 @@ Hi there 👋!
 - Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**, **[Twitter](https://twitter.com/arif_szn)** and **[Facebook](https://www.facebook.com/swozon)**.
-- Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[Vail](https://github.com/arifszn/vail)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)**.
 
 #### What are my skill sets?
 
