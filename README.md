@@ -43,9 +43,6 @@ Hi there 👋!
 <a href="https://www.linkedin.com/in/ariful-alam">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/swozon">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
 <a href="https://dev.to/arifszn">
   <img align="left" alt="Dev" width="22px" src="./assets/dev.svg" />
 </a>
