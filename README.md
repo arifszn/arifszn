@@ -10,7 +10,7 @@ Hi there 👋!
 
 - Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`.
 - Contributing to Open Source.
-- Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**, **[Twitter](https://twitter.com/arif_szn)** and **[Facebook](https://www.facebook.com/swozon)**.
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**.
 
 #### What are my skill sets?
 
