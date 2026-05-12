@@ -3,12 +3,12 @@ Hi there 👋!
 #### Who I am?
 
 - A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** with 7+ years of experience.
-- Among the top 200 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
+<!-- - Among the top 200 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**. -->
 - See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
 
 #### What I'm doing?
 
-- Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`.
+- Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`, `PHP`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**.
 
