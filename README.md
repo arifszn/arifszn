@@ -1,4 +1,4 @@
-![My GitHub activity](headreel.gif)
+![My GitHub activity](https://raw.githubusercontent.com/arifszn/arifszn/headreel/headreel.gif)
 
 Hi there 👋!
 
