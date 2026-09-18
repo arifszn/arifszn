@@ -1,0 +1,20 @@
+name: headreel
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at 00:00 UTC
+  workflow_dispatch: # lets you run it from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  banner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: arifszn/headreel@v1
+        with:
+          style: contribution-city
+          tagline: Senior Software Engineer · Distributed Systems
+          website: https://arifszn.com
