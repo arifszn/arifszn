@@ -1,3 +1,5 @@
+![My GitHub activity](headreel.gif)
+
 Hi there 👋!
 
 #### Who I am?
