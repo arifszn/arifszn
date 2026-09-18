@@ -16,5 +16,6 @@ jobs:
       - uses: arifszn/headreel@v1
         with:
           style: contribution-city
+          publish_mode: branch
           tagline: Senior Software Engineer · Distributed Systems
           website: https://arifszn.com
