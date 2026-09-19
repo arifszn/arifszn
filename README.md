@@ -5,36 +5,42 @@ Hi there 👋!
 #### Who I am?
 
 - A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** with 7+ years of experience.
+- I build AI systems and the distributed backends they run on.
 - See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
 
 #### What I'm doing?
 
-- Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`, `PHP`.
+- Building LLM-powered workflows and apps.
+- Writing `TypeScript`, `Node.js`, `Go`, `PHP`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**.
 
 #### What are my skill sets?
 
+- 🤖 **AI:**
+
+  - **LLM:** `LangChain` • `RAG` • `MCP` • `LLM Integration`
+
 - 🗄️ **Backend:**
 
-  - **Programming:** `Node.js` • `JavaScript` • `TypeScript` • `PHP`
-  - **Framework:** `Nest.js` • `Express.js` • `Lumen` • `Laravel`
-  - **Databases:** `MySQL` • `PostgreSQL`
-  - **System Architecture:** `Monolithic` • `Modular` • `Microservices`
-  - **Protocol:** `REST` • `Web Socket`
+  - **Programming:** `TypeScript` • `JavaScript` • `Go` • `PHP`
+  - **Framework:** `Node.js` • `Nest.js` • `Express.js` • `Laravel` • `Gin`
+  - **Databases:** `PostgreSQL` • `MySQL` • `Redis` • `Cassandra` • `ClickHouse` • `Elasticsearch`
+  - **System Architecture:** `Microservices` • `Serverless` • `Event-Driven`
+  - **Messaging:** `RabbitMQ`
+  - **Payments:** `Stripe` • `Square`
 
 - 🖥 **Frontend (_I do frontend for fun_):**
 
   - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Docusaurus` • `Gatsby`
-  - **UI Toolkit:** `Ant Design` • `MUI`
-  - **Utils:** `Tailwind` • `Modular CSS`
+  - **Framework/Library:** `React.js` • `Next.js` • `Vue.js`
+  - **Utils:** `Tailwind`
 
 - 🎡 **Ecosystem:**
-  - **Containerization:** `Docker` • `Rancher Desktop` • `GitHub Codespaces`
+  - **Cloud:** `AWS` • `Firebase`
+  - **Containerization:** `Docker` • `Kubernetes`
   - **Version Control:** `Git` • `GitHub`
-  - **CI/CD:** `Github Actions` • `Travis CI`
-  - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
+  - **CI/CD:** `GitHub Actions`
 
 #### How to reach me?
 
@@ -57,8 +63,3 @@ Hi there 👋!
 <br/>
 <br/>
 <br/>
-
-<p align="center">
-<!-- <a href="http://www.github.com/arifszn"><img src="https://github-readme-stats.vercel.app/api?username=arifszn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a> -->
-<a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p>
